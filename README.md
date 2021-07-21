@@ -3,7 +3,7 @@ Payment Gateway Integration is developed using HTML,CSS and JavaScript. For paym
 
 For demo card use
 
-Card No:- 4222 3333 3333 3333
+Card No:- 5433 3333 3453 3833
 
 cvv:- Any
 
